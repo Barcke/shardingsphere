@@ -1,0 +1,5 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/Dbcp2DataSourcePropertiesSetterTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/HikariDataSourcePropertiesSetterTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/DataSourcePropertiesSetterHolderTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/util/DataSourceUtilTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/converter/StringToNoneShardingStrategyConfigurationConverterTest.java

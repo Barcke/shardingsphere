@@ -1,0 +1,5 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/shardingsphere-spi/src/test/java/org/apache/shardingsphere/spi/TypeBasedSPIServiceLoaderTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/shardingsphere-spi/src/test/java/org/apache/shardingsphere/spi/NewInstanceServiceLoaderTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/shardingsphere-spi/src/test/java/org/apache/shardingsphere/spi/fixture/TypeBasedSPIFixture.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/shardingsphere-spi/src/test/java/org/apache/shardingsphere/spi/fixture/TypeBasedSPIFixtureServiceLoader.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/shardingsphere-spi/src/test/java/org/apache/shardingsphere/spi/fixture/TypeBasedSPIFixtureImpl.java

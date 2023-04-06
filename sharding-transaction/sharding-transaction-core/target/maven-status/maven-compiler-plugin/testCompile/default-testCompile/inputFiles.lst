@@ -1,0 +1,5 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/ResourceIDGeneratorTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngineTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolderTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/ShardingTransactionManagerFixture.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/OtherShardingTransactionManagerFixture.java

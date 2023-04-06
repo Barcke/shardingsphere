@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6411bc1-eb99-4a1e-b004-85dbd1409115" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../midongtools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../midongtools/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1lixkntpkhBkoMNp4LkVM7GCjkF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -Dmagen.test.skip=true" />
+      <command value="mvn clean install -Dmaven.test.skip=true" />
+      <command value="mvn clean install -Dmaven.test.skip=true  -Dmaven.javadoc.skip=true" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ShardingJDBCDemo">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="ShardingJDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.roy.demo.ShardingJDBCDemo" />
+      <module name="sharding-jdbc-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLCasesLoaderTest.assertGetSQLForLiteralWithParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-sql-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.shardingsphere.test.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.shardingsphere.test.sql" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.shardingsphere.test.sql.SQLCasesLoaderTest" />
+      <option name="METHOD_NAME" value="assertGetSQLForLiteralWithParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShardingJDBCDemo" />
+        <item itemvalue="JUnit.SQLCasesLoaderTest.assertGetSQLForLiteralWithParameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6411bc1-eb99-4a1e-b004-85dbd1409115" name="Default Changelist" comment="" />
+      <created>1608093858351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608093858351</updated>
+      <workItem from="1608093868332" duration="13207000" />
+      <workItem from="1608120542898" duration="10081000" />
+      <workItem from="1608173522268" duration="897000" />
+      <workItem from="1608182341784" duration="6928000" />
+      <workItem from="1608270472380" duration="639000" />
+      <workItem from="1608531261148" duration="1334000" />
+      <workItem from="1608795037142" duration="618000" />
+      <workItem from="1608799477101" duration="14000" />
+      <workItem from="1609226543844" duration="1594000" />
+      <workItem from="1609917291471" duration="5623000" />
+      <workItem from="1609988776418" duration="11424000" />
+      <workItem from="1610081088223" duration="12388000" />
+      <workItem from="1654843899648" duration="996000" />
+      <workItem from="1654851775410" duration="650000" />
+      <workItem from="1655090271716" duration="22278000" />
+      <workItem from="1656380367724" duration="368000" />
+      <workItem from="1657520339084" duration="450000" />
+      <workItem from="1657520870126" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2006" height="311" key="GridCell.Tab.0.bottom" timestamp="1657521951803">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state width="2006" height="311" key="GridCell.Tab.0.bottom/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1657521951803" />
+    <state width="2006" height="311" key="GridCell.Tab.0.center" timestamp="1657521951802">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state width="2006" height="311" key="GridCell.Tab.0.center/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1657521951802" />
+    <state width="2006" height="311" key="GridCell.Tab.0.left" timestamp="1657521951802">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state width="2006" height="311" key="GridCell.Tab.0.left/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1657521951802" />
+    <state width="2006" height="311" key="GridCell.Tab.0.right" timestamp="1657521951803">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state width="2006" height="311" key="GridCell.Tab.0.right/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1657521951803" />
+    <state x="512" y="167" key="SettingsEditor" timestamp="1655090551054">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state x="512" y="167" key="SettingsEditor/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1655090551054" />
+    <state x="724" y="345" width="1098" height="486" key="find.popup" timestamp="1655109248382">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state x="724" y="345" width="1098" height="486" key="find.popup/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1655109248382" />
+    <state x="688" y="272" width="672" height="677" key="run.anything.popup" timestamp="1655175628974">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state x="688" y="272" width="672" height="677" key="run.anything.popup/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1655175628974" />
+    <state x="687" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1655263250484">
+      <screen x="0" y="25" width="2048" height="1127" />
+    </state>
+    <state x="687" y="275" width="672" height="678" key="search.everywhere.popup/2048.25.1440.2535/0.25.2048.1127@0.25.2048.1127" timestamp="1655263250484" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shardingsphere$ShardingJDBCDemo.ic" NAME="ShardingJDBCDemo Coverage Results" MODIFIED="1608125424268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.roy.demo.*</FILTER>
+    </SUITE>
+  </component>
+</project>

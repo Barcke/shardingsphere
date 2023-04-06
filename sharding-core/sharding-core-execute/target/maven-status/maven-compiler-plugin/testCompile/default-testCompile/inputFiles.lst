@@ -1,0 +1,5 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/SQLExecuteCallbackTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/threadlocal/ExecutorExceptionHandlerTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/StreamQueryResultTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/prepare/SQLExecutePrepareTemplateTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/MemoryQueryResultTest.java

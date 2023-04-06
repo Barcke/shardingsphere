@@ -1,0 +1,10 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLNegotiateHandlerTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/utils/ReflectionUtil.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/BinlogPositionTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLLogPositionManagerTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLCommandPacketDecoderTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/BinlogContextTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLClientTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLPasswordEncryptorTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/ServerVersionTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLBinlogEventPacketDecoderTest.java

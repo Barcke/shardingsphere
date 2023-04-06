@@ -1,0 +1,8 @@
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/InlineShardingStrategyConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/masterslave/MasterSlaveRuleConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/StandardShardingStrategyConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/TableRuleConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/HintShardingStrategyConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/hint/HintManagerTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/KeyGeneratorConfigurationTest.java
+/Users/liucongcong/Desktop/ideaStro/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/ComplexShardingStrategyConfigurationTest.java
